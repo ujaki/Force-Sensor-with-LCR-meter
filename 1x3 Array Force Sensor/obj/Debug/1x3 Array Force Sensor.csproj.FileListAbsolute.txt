@@ -1,0 +1,24 @@
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\bin\Debug\1x3 Array Force Sensor.exe.config
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\bin\Debug\1x3 Array Force Sensor.exe
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\bin\Debug\1x3 Array Force Sensor.pdb
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csprojResolveAssemblyReference.cache
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\obj\Debug\_1x3_Array_Force_Sensor.Properties.Resources.resources
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csproj.GenerateResource.Cache
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csproj.CoreCompileInputs.cache
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.exe
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.pdb
+C:\Users\Dong-Soo\source\repos\1x3 Array Force Sensor\1x3 Array Force Sensor\obj\Debug\_1x3_Array_Force_Sensor.Form1.resources
+C:\Users\SiHo Ryu\Desktop\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csprojAssemblyReference.cache
+C:\Users\SiHo Ryu\Desktop\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\_1x3_Array_Force_Sensor.Form1.resources
+C:\Users\SiHo Ryu\Desktop\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\_1x3_Array_Force_Sensor.Properties.Resources.resources
+C:\Users\SiHo Ryu\Desktop\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csproj.GenerateResource.cache
+C:\Users\SiHo Ryu\Desktop\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csproj.CoreCompileInputs.cache
+C:\Users\SiHo Ryu\Desktop\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.exe
+C:\Users\SiHo Ryu\Desktop\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.pdb
+C:\Users\SiHo Ryu\Desktop\SH_projects\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csprojAssemblyReference.cache
+C:\Users\SiHo Ryu\Desktop\SH_projects\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\_1x3_Array_Force_Sensor.Form1.resources
+C:\Users\SiHo Ryu\Desktop\SH_projects\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\_1x3_Array_Force_Sensor.Properties.Resources.resources
+C:\Users\SiHo Ryu\Desktop\SH_projects\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csproj.GenerateResource.cache
+C:\Users\SiHo Ryu\Desktop\SH_projects\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.csproj.CoreCompileInputs.cache
+C:\Users\SiHo Ryu\Desktop\SH_projects\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.exe
+C:\Users\SiHo Ryu\Desktop\SH_projects\1 Ch Force Sensor with LCR meter\1x3 Array Force Sensor\obj\Debug\1x3 Array Force Sensor.pdb
